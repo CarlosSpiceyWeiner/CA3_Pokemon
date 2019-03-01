@@ -1,3 +1,4 @@
+<?php include '../view/header.php'; ?>
 <main>
 
     <h1>pokemon List</h1>
@@ -50,3 +51,4 @@
     </section>
 
 </main>
+<?php include '../view/footer.php'; ?>

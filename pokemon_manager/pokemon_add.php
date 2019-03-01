@@ -1,3 +1,4 @@
+<?php include '../view/header.php'; ?>
 <main>
     <h1>Add pokemon</h1>
     <form action="index.php" method="post" id="add_pokemon_form">
@@ -35,3 +36,4 @@
     </p>
 
 </main>
+<?php include '../view/footer.php'; ?>

@@ -1,4 +1,4 @@
-
+<?php include '../view/header.php'; ?>
 <main>
     <h1>Edit pokemon</h1>
     <form action="index.php" method="post" id="add_pokemon_form">
@@ -35,3 +35,4 @@
     <p><a href="index.php?action=list_pokemon">View pokemon List</a></p>
 
 </main>
+<?php include '../view/footer.php'; ?>

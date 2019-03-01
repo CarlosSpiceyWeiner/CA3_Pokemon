@@ -1,4 +1,4 @@
-
+<?php include '../view/header.php'; ?>
 <main>
 
     <h1>Category List</h1>
@@ -37,3 +37,4 @@
     <p><a href="index.php?action=list_pokemon">List pokemon</a></p>
 
 </main>
+<?php include '../view/footer.php'; ?>
