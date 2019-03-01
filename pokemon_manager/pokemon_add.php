@@ -32,7 +32,7 @@
         <br>
     </form>
     <p class="last_paragraph">
-        <a href="?action=list_pokemon">View pokemon List</a>
+        <a href="index.php?action=list_pokemon">View pokemon List</a>
     </p>
 
 </main>

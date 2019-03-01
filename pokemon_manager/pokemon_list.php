@@ -22,7 +22,7 @@
             </tr>
             <?php foreach ($pokemon as $pokemon) : ?>
             <tr>
-                <td><?php echo $pokemon['pokemonMove']; ?></td>
+                <td><?php echo $pokemon['pokemonMoves']; ?></td>
                 <td><?php echo $pokemon['pokemonName']; ?></td>
                 <td class="right"><?php echo $pokemon['level']; ?></td>
                 <td><form action="." method="post">
