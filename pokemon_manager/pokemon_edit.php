@@ -13,7 +13,7 @@
                value="<?php echo $pokemon['categoryID']; ?>">
         <br>
 
-        <label>Code:</label>
+        <label>Moves:</label>
         <input type="input" name="moves"
                value="<?php echo $pokemon['pokemonMoves']; ?>">
         <br>
