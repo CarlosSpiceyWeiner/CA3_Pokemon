@@ -1,3 +1,5 @@
+/*I got the border for my display box from a website called CSSMatic*/
+
 html {
     background-color: rgb(192, 192, 192);
     background-image: url("./images/evolve.jpg");
@@ -26,7 +28,7 @@ header h1 {
     color: black;
 }
 main {
-
+color: white;
 }
 aside {
     float: left;
